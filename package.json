@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@vendia/serverless-express": "^4.3.9",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "serverless-offline": "^7.0.0"
   }
 }
